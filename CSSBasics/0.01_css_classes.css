@@ -1,0 +1,26 @@
+body {
+	background-color: blue
+}
+.silverchallenge
+	ul{
+		color:green;
+	}
+.goldchallenge
+	p{
+		color: green;
+	}
+	ul{
+		color:blue;
+	}
+.uglycolor
+	h1{
+		color: #b35900
+	}
+.anotheruglycolor
+	h1{
+		color: #b3b300
+	}
+.theotheruglycolor
+	h1{
+		color:  #4d6600
+	}
