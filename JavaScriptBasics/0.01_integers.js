@@ -1,0 +1,10 @@
+console.log(40)
+console.log(78)
+console.log(45)
+console.log(7+7)
+console.log(7-5)
+console.log(7*7)
+console.log(7/7)
+console.log(7 % 7)
+
+console.log(Math.pow(4,6)
